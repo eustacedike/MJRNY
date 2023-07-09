@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MJRNY/static/css/main.aa633271.css",
+    "main.js": "/MJRNY/static/js/main.6d622269.js",
+    "static/js/787.2741aa00.chunk.js": "/MJRNY/static/js/787.2741aa00.chunk.js",
+    "static/media/cat-img-1.jpg": "/MJRNY/static/media/cat-img-1.b3fa0b3986420288320f.jpg",
+    "static/media/cat-img-2.jpg": "/MJRNY/static/media/cat-img-2.e2494a048d571f52c5cc.jpg",
+    "static/media/cat-img-4.jpg": "/MJRNY/static/media/cat-img-4.6e215159d1906fe2aeef.jpg",
+    "static/media/cat-img-3.jpg": "/MJRNY/static/media/cat-img-3.2e1bc6b15fb23f5f2593.jpg",
+    "static/media/product-2.jpg": "/MJRNY/static/media/product-2.b729aee2e9bfb4b2f4f1.jpg",
+    "static/media/product-3.jpg": "/MJRNY/static/media/product-3.714fa8f4f6a5023767e2.jpg",
+    "static/media/product-5.jpg": "/MJRNY/static/media/product-5.39228938494e606a6b58.jpg",
+    "static/media/product-6.jpg": "/MJRNY/static/media/product-6.e479427e4ff09df2fc90.jpg",
+    "static/media/hero-banner-alt.jpg": "/MJRNY/static/media/hero-banner-alt.4a22881c941f7b645fa8.jpg",
+    "static/media/product-4.jpg": "/MJRNY/static/media/product-4.fe58342a25237dc9ce60.jpg",
+    "static/media/product-1.jpg": "/MJRNY/static/media/product-1.52e1467c971f87e2561c.jpg",
+    "static/media/product-8.jpg": "/MJRNY/static/media/product-8.4045fdb56334d472bc37.jpg",
+    "static/media/product-7.jpg": "/MJRNY/static/media/product-7.4a3c8ef28fb863007df0.jpg",
+    "static/media/logo.svg": "/MJRNY/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MJRNY/index.html",
+    "main.aa633271.css.map": "/MJRNY/static/css/main.aa633271.css.map",
+    "main.6d622269.js.map": "/MJRNY/static/js/main.6d622269.js.map",
+    "787.2741aa00.chunk.js.map": "/MJRNY/static/js/787.2741aa00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa633271.css",
+    "static/js/main.6d622269.js"
+  ]
+}
