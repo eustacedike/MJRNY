@@ -1,0 +1,136 @@
+
+
+
+
+
+
+.onet {
+    /* background-color: red; */
+    overflow-x: scroll;
+    gap: 4vw;
+    /* padding: 20px 30px; */
+
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.onep {
+    position: relative;
+
+}
+
+.onep header {
+    text-align: center;
+}
+
+#products{
+    /* box-shadow: 0px 0px 4px 1px lightgray; */
+    /* text-align: center; */
+    scroll-snap-align: start;
+
+    /* height: 45vw; */
+    scroll-snap-align: start;
+    min-width: 27%;
+}
+
+.onet::-webkit-scrollbar {
+    display: none;
+}
+
+.onet img {
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.lef, .righ {
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    border-radius: 50%;
+    background-color: rgb(0,0,0,0.2);
+    position: absolute;
+    top: 45%;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.lef {
+    left: 20px;
+}
+.righ {
+    right: 20px;
+}
+
+.lef:hover, .righ:hover {
+    background-color: rgb(0,0,0,0.5);
+}
+
+.big-cat {
+    display: flex;
+    flex-direction: row;
+    /* background-color: red; */
+    overflow-x: scroll;
+    gap: 4vw;
+    padding: 20px 30px;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.big-cat::-webkit-scrollbar {
+    display: none;
+}
+
+.catt {
+    height: 32vw;
+    overflow: hidden;
+    scroll-snap-align: start;
+    min-width: 27%;
+    position: relative;
+    box-shadow: 0px 0px 4px 1px lightgray;
+
+}
+
+.cat-img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+    /* border: 1px solid red; */
+
+}
+
+
+.catt strong {
+    position: absolute;
+    top: 50%;
+}
+
+
+
+@media (max-width: 600px) {
+    .catt, #products {
+        height: 150vw;
+        /* overflow: hidden; */
+        scroll-snap-align: center;
+        min-width: 100vw;
+        /* position: relative; */
+        box-shadow: none;
+    /* border: 1px solid red; */
+    }
+
+    .lef, .righ {
+        height: 40px;
+        width: 40px;
+    font-size: 20px;
+
+    }
+}

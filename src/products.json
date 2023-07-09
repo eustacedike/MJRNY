@@ -1,0 +1,95 @@
+{
+    "products": [
+        {
+        "title": "Kui Ye Chen’s AirPods",
+        "image": "./img/product-1.jpg",
+        "condition": "New",
+        "price": 250,
+        "quantity": 13,
+        "category": "Electronics",
+        "subCategory": "Airpod",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+        "colors": ["red","blue"],
+        "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+        },
+
+        {
+            "title": "Cyan cotton t-shirt",
+            "image": "product3",
+            "condition": "New",
+            "price": 250,
+            "quantity": 13,
+            "category": "Clothes",
+            "subCategory": "Shirt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "colors": ["red", "blue"],
+            "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+          },
+        
+          {
+            "title": "Timex Unisex Originals",
+            "image": "product4",
+            "condition": "New",
+            "price": 351,
+            "quantity": 3,
+            "category": "Electronics",
+            "subCategory": "Wrist Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "colors": ["red", "blue"],
+            "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+          },
+        
+          {
+            "title": "Red digital smartwatch",
+            "image": "product5",
+            "condition": "New",
+            "price": 250,
+            "quantity": 0,
+            "category": "Electronics",
+            "subCategory": "Wrist Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "colors": ["red", "blue"],
+            "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+          },
+        
+        
+          {
+            "title": "Nike air max 95",
+            "image": "product6",
+            "condition": "New",
+            "price": 300,
+            "quantity": 0,
+            "category": "Shoes",
+            "subCategory": "Sneakers",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "colors": ["red", "blue"],
+            "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+          },
+        
+          {
+            "title": "Nike air max 95",
+            "image": "product7",
+            "condition": "New",
+            "price": 25,
+            "quantity": 0,
+            "category": "Health and Beauty",
+            "subCategory": "Perfume",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "colors": ["red", "blue"],
+            "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+          },
+        
+          {
+            "title": "Apple Watch",
+            "image": "product8",
+            "condition": "New",
+            "price": 350,
+            "quantity": 13,
+            "category": "Electronics",
+            "subCategory": "Wrist Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+            "colors": ["red", "blue"],
+            "sizes": ["4XL", "XXXL", "XXL", "XL", "L", "M", "S"]
+          }
+    ]
+}
